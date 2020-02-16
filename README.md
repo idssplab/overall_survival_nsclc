@@ -6,8 +6,17 @@ Non-small cell lung cancer (NSCLC) is one of the most common lung cancers worldw
 
 ## Examples
 
+<span class="img_container center" style="display: block;">
+    <img width="300px" alt="test" src="images/architecture.png" style="display:block; margin-left: auto; margin-right: auto;" title="caption" />
+    <span class="img_caption" style="display: block; text-align: center;">caption</span>
+</span>
+
+
 <div align="center">
-  <img width="600px" height="auto" src="images/architecture.png">
+  <figure>
+  <img width="600px" height="auto" src="images/architecture.png"></img>
+  <figcaption><center>Fig.1 - Trulli, Puglia, Italy.</center></figcaption>
+  </figure>
 </div>
 </br>
 ---
@@ -15,7 +24,10 @@ Non-small cell lung cancer (NSCLC) is one of the most common lung cancers worldw
 
 ## ccc
 <div align="center">
+  <figure>
   <img width="600px" height="auto" src="images/biomarkers.png">
+  <figcaption><center>Fig.1 - Trulli, Puglia, Italy.</center></figcaption>
+  </figure>
 </div>
 
 
@@ -38,14 +50,20 @@ python3 merge.py
 <div>
   <figure>
   <img width="300px" height="auto" src="results/error_x.png">
-  <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+  <figcaption><center>Fig.1 - Trulli, Puglia, Italy.</center></figcaption>
   </figure>
 </div>
 <div>
+  <figure>
   <img width="300px" height="auto" src="results/error_c.png">
+  <figcaption><center>Fig.1 - Trulli, Puglia, Italy.</center></figcaption>
+  </figure>
 </div>
 <div>
+  <figure>
   <img width="300px" height="auto" src="results/error_merge.png">
+  <figcaption><center>Fig.1 - Trulli, Puglia, Italy.</center></figcaption>
+  </figure>
 </div>
 
 
