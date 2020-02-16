@@ -1,8 +1,6 @@
 # Overall survival prediction of non-small cell lung cancer by integrating microarray and clinical data with deep learning
 This repository provides a reference implementation of *Bimodal DNN* as described in the paper submitted to *Scientific Reports*: *Overall survival prediction of non-small cell lung cancer by integrating microarray and clinical data with deep learning*.
 
----
-
 ## Prognostic biomarker selection
 The built gene interaction networks based on microarray data. Based on our previous research, we selected 7 prognostic biomarkers with high prognsotic relevance values (PRV) and combined with 8 eight well-known biomarkers to form a set of 15 prognostic biomarkers for NSCLC patient overall survival prediction. Their interactions are illustrated with the following figure generated with [STRING](https://string-db.org/):
 <div align="center">
@@ -15,7 +13,7 @@ The *Bimodal DNN* consists of two subnetworks for microarray and clincial data, 
   <img width="600px" height="auto" src="images/architecture.png"></img>
 </div>
 
-## Basic Usage
+## Basic usage
 ### Data availability
 The combined GSE cohort is available [here](https://drive.google.com/file/d/1dnqQEahODuZpFPiIaZO86ucFRcGuFgAA/view?usp=sharing). The data were first pre-processed and split into train/test splits.
 
