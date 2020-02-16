@@ -6,11 +6,18 @@ Non-small cell lung cancer (NSCLC) is one of the most common lung cancers worldw
 ## Examples
 
 <div align="center">
-  <img src="image/architecture.png">
+  <img width="600px" height="auto" src="images/architecture.png">
 </div>
+</br>
+---
+
+
+## ccc
 <div align="center">
-  <img src="image/architecture.tiff">
+  <img width="600px" height="auto" src="images/biomarkers.png">
 </div>
+
+
 ```python
 python3 train.py
 ```
