@@ -48,5 +48,5 @@ python3 merge.py
 </div>
 
 ## Citation
-If you find our work useful for your research, please consider citing our work. Please feel free to [contact](http://cc.ee.ntu.edu.tw/~chelin/) us. A pre-print version of our [paper](https://www.biorxiv.org/content/10.1101/656140v2) is available on bioRxiv.
+If you find our work useful for your research, please consider citing our work. Please feel free to [contact](http://cc.ee.ntu.edu.tw/~chelin/) us. A pre-print version of our [paper](https://www.biorxiv.org/content/10.1101/656140v2) is available on bioRxiv. The [full version](https://www.nature.com/articles/s41598-020-61588-w) accepted to Scientific Reports is also available.
 
